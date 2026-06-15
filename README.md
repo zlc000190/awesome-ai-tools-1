@@ -347,6 +347,7 @@
 | NovelAI | 二次元/动漫风格图像生成，专攻插画和角色创作 | 有限免费 | 中 | 插画师、动漫爱好者 | [点击进入](https://novelai.net/) |
 | Stableboost | 基于 Stable Diffusion 的图像生成与优化 | 基础免费 | 中 | 设计师、AI 爱好者 | [点击进入](https://stableboost.io/) |
 | GPT-IMAGE-1 | OpenAI 新一代图像生成模型，通过文本生成高质量图片 | 有限免费 | 低 | 普通用户、设计师 | [点击进入](https://openai.com/gpt-image-1) |
+| Seedream AI Studio | 多模型 AI 图像生成平台，集成字节跳动 Seedream 5.0/4.5/4.0，支持一键图生视频（Kling 2.1 驱动） | 免费基础版 | 低 | 创作者、设计师、AI 爱好者 | [点击进入](https://seedream4.video/) |
 | Kling | 高质量图像与视频生成，可灵 AI 驱动 | 每日免费点数 | 低 | 短视频创作者、设计师 | [点击进入](https://kling.kuaishou.com/) |
 
 
